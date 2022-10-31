@@ -1,2 +1,2 @@
-# hacktober Fest-1
+# hacktober-1
 
