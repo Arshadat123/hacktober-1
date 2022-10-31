@@ -1,1 +1,1 @@
-# hacktoberepository Fest R-1
+# hacktober-1
